@@ -4,7 +4,7 @@
  *
  * This class describes the reconstructed tracks that are stored in the AOD and
  * RECO. It also contains a reference to more detailed information about each
- * track, that is stoed in the TrackExtra object, available only in RECO.
+ * track, that is stored in the TrackExtra object, available only in RECO.
  *
  * Note that most of the functions provided in this Track class rely on the existance of
  * the TrackExtra object, so will not work on AOD.
